@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="prev_button">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Actiong_Settings</string>
+    
+    <string name="question_oceans">Q1:The Pacific Ocean is lager than the Atlantic Ocean.</string>
+    <string name="question_mideast">Q2:The Suez Canal connects the Red Sea and Indian Ocean.</string>
+    <string name="question_africa">Q3:The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">Q4:The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">Q5:Lake Baikal is the world \'s oldest and deepest freshwater lake.</string>
+    
+    <string name="cheat_button">Cheat</string>
+    <string name="warning_text">[Vscreen\:]Are you sure you want to do this?</string>
+    <string name="warning_text_Hscreen">[Hscreen\:]Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="cheated_toast">You have cheated !</string>
+    <string name="nocheated_toast">You have not finished this question!</string>
+    
+    <string name="api_level">Api Level = </string>
+    
+    
+</resources>
